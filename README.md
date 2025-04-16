@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 I am K.J.P.Vaibhav
-- 🎓 Post Graduate Diploma in Big Data Analytics from <font color="white">[Centre for Development of Advanced Computing](https://www.cdac.in/index.aspx?id=DAC&courseid=65)</font> 
+- 🎓 Post Graduate Diploma in Big Data Analytics from [Centre for Development of Advanced Computing](https://www.cdac.in/index.aspx?id=DAC&courseid=65) 
 - 🎓 Graduation in Computer Science and Engineering from [JNTUH University College of Engineering Sultanpur](https://jntuhces.ac.in/viewdept/2)
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Big Data Analytics
